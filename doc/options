@@ -1,0 +1,22 @@
+-classpath
+'/home/baldo/git/weka-dev/build/classes:/home/baldo/.m2/repository/net/sf/squirrel-sql/thirdparty-non-maven/java-cup/0.11a/java-cup-0.11a.jar'
+-encoding
+'UTF-8'
+-public
+-author
+-bottom
+'Copyright &#169; 2014 <a href="http://www.waikato.ac.nz/">University of Waikato, Hamilton, NZ</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/baldo/git/weka-dev/doc'
+-docencoding
+'UTF-8'
+-doctitle
+'weka-wedo 0.0.1-SNAPSHOT API'
+-linkoffline
+'http://download.oracle.com/javase/1.5.0/docs/api' '/home/baldo/git/weka-dev/dist/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'weka-wedo 0.0.1-SNAPSHOT API'
